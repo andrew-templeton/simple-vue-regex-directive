@@ -1,0 +1,30 @@
+{
+  "name": "simple-vue-regex-directive",
+  "version": "1.0.1",
+  "description": "Generate simple regex directives to apply styles to inputs or custom component with a single inner input in Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew-templeton/simple-vue-regex-directive.git"
+  },
+  "keywords": [
+    "simple",
+    "vue",
+    "regex",
+    "directive",
+    "es6",
+    "vuejs",
+    "input",
+    "field",
+    "validation"
+  ],
+  "author": "Andrew Templeton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrew-templeton/simple-vue-regex-directive/issues"
+  },
+  "homepage": "https://github.com/andrew-templeton/simple-vue-regex-directive#readme"
+}
